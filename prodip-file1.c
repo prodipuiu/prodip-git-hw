@@ -6,7 +6,7 @@ int main()
 }
 
 void name(){
-
- printf("prodip mojumder");
+    int a = 10;
+ printf("prodip mojumder pm");
 
 }
